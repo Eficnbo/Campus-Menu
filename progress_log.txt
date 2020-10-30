@@ -1,0 +1,18 @@
+
+ Made the data gatherer method, apart from that I\'92ve been fairly busy with other courses/exam week, will be starting woking properly this week. No problems so far, little late in the schedule but fixable easily. 10.3.2020
+ 
+ Made the class-structure 20.3
+ 
+Food class details made 23.3
+ 
+Fixed small bug with gather class 23.3
+ 
+Problems with the restaurant websites because they look now very different than when it was during the 'normal' not corona time, no menus displayed etc. 23.3 
+
+Fixed problems with the restaurant menus => Now it is able to create Food objects from the URLs 24.3
+
+Imported the swing library and tried to make a small UI with it 27.3
+
+Added allergen filtering and scalable tables(no empty spaces) 17.4.2020
+
+fixing tests 20.4.2020
